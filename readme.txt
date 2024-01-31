@@ -1,4 +1,4 @@
-Welcome to the "Git for beginners project" MyProject!
+Welcome to the "Git for Beginners" MyProject!
 
 Author: Francis Cejudo
 Twitter: SadEmergencyFood
