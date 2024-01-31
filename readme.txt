@@ -1,4 +1,4 @@
 Welcome to MyProject!
 
-Author: Frans
+Author: Frans Cejudo
 Twitter: SadEmergencyFood
